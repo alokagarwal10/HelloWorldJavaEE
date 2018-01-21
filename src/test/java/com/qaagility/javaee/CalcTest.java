@@ -2,7 +2,7 @@ package com.qaagility.javaee;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
- 
+import com.qaagility.javaee.Calculator; 
 public class CalcTest {
 
       public void testSlow() {
